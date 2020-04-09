@@ -27,4 +27,3 @@ def solution(s):
         i += 1
     return out_string
 
-print("YEEET")
