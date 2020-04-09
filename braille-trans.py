@@ -26,3 +26,5 @@ def solution(s):
         out_string += braille_dict[char]
         i += 1
     return out_string
+
+print("YEEET")
